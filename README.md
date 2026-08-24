@@ -49,3 +49,12 @@ This is a React-based pizza ordering application. Users can customize a pizza, s
 - Array methods
 - Form validation
 - localStorage
+
+## Github Link
+
+   https://github.com/ABDUL-Malik897/Mario-s-Pizza-Delivery.git
+
+
+## Live Link
+
+   https://mario-s-pizza-delivery.vercel.app
